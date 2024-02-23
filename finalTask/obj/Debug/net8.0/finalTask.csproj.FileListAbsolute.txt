@@ -1,0 +1,15 @@
+C:\Users\kenig\Desktop\Final Task\finalTask\bin\Debug\net8.0\finalTask.exe
+C:\Users\kenig\Desktop\Final Task\finalTask\bin\Debug\net8.0\finalTask.deps.json
+C:\Users\kenig\Desktop\Final Task\finalTask\bin\Debug\net8.0\finalTask.runtimeconfig.json
+C:\Users\kenig\Desktop\Final Task\finalTask\bin\Debug\net8.0\finalTask.dll
+C:\Users\kenig\Desktop\Final Task\finalTask\bin\Debug\net8.0\finalTask.pdb
+C:\Users\kenig\Desktop\Final Task\finalTask\obj\Debug\net8.0\finalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenig\Desktop\Final Task\finalTask\obj\Debug\net8.0\finalTask.AssemblyInfoInputs.cache
+C:\Users\kenig\Desktop\Final Task\finalTask\obj\Debug\net8.0\finalTask.AssemblyInfo.cs
+C:\Users\kenig\Desktop\Final Task\finalTask\obj\Debug\net8.0\finalTask.csproj.CoreCompileInputs.cache
+C:\Users\kenig\Desktop\Final Task\finalTask\obj\Debug\net8.0\finalTask.sourcelink.json
+C:\Users\kenig\Desktop\Final Task\finalTask\obj\Debug\net8.0\finalTask.dll
+C:\Users\kenig\Desktop\Final Task\finalTask\obj\Debug\net8.0\refint\finalTask.dll
+C:\Users\kenig\Desktop\Final Task\finalTask\obj\Debug\net8.0\finalTask.pdb
+C:\Users\kenig\Desktop\Final Task\finalTask\obj\Debug\net8.0\finalTask.genruntimeconfig.cache
+C:\Users\kenig\Desktop\Final Task\finalTask\obj\Debug\net8.0\ref\finalTask.dll
