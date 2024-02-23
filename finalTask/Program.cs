@@ -19,4 +19,6 @@ for (int i = 0; i < array.Length; i++){
     }
 }
 
-Console.WriteLine(newArray);
+for (int i = 0; i < newArray.Length; i++){
+    Console.Write('"' + newArray[i] + '"');
+}
